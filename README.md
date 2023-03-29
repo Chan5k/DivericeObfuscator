@@ -1,5 +1,7 @@
 # DivericeObfuscator
 A simple script to obfuscate files using the Fernet encryption algorithm from the cryptography library.
+![image](https://user-images.githubusercontent.com/87248999/228562496-96f0ffcc-8408-4b14-b3f1-3440291b1bfe.png)
+
 # Getting Started
 To use the obfuscator, you'll need to install the cryptography library:
         
